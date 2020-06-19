@@ -1,4 +1,4 @@
-# LeagueofLegends: Surrender at 10?
+# League of Legends: Surrender at 10?
 
 ## Objective:
   The goal of this project is to figure out if one could make a model that can predict the winning team of a League of Legends game simply by analyzing the stats at the 10 minute mark.
